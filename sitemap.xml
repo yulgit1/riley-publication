@@ -241,15 +241,23 @@
   </url>
   
   <url>
+    <loc>/catalogue/53/</loc>
+  </url>
+  
+  <url>
+    <loc>/catalogue/54/</loc>
+  </url>
+  
+  <url>
     <loc>/c-and-d/</loc>
   </url>
   
   <url>
-    <loc>/works-cited/</loc>
+    <loc>/works-referenced/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/copyright/</loc>
   </url>
   
 </urlset>
