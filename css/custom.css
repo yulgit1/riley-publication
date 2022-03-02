@@ -1,0 +1,9 @@
+.quire-entry__image .quire-image-control.quire-image-info {
+    display: none; }
+
+.quire-cover__hero-body .publisher { font-size: 1.75rem;
+  color: white; font-family: 'Noto Sans', sans-serif; }
+
+.quire-copyright__icon__logo { height: 7.5em; }
+
+.quire-page__header__contributor { font-size: 2em; }
